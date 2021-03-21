@@ -16,3 +16,6 @@ console.log("23" * 2);
 console.log("23" / 2);
 console.log("23" > "18");
 
+let n = "1" + 1;
+n=n-1;
+console.log(n);
