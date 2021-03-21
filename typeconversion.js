@@ -13,4 +13,6 @@ console.log("I am "+23+" years Old");
 console.log("23"-"10"-3);
 console.log("23"+"10"+3);
 console.log("23" * 2);
+console.log("23" / 2);
+console.log("23" > "18");
 
