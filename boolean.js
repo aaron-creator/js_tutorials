@@ -12,3 +12,10 @@ if(money){
 else{
     console.log("You should get a job!");
 }
+let height ;
+if(height){
+    console.log("Yay! Height is defined");
+}
+else {
+    console.log("Height is Undefined");
+}
