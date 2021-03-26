@@ -19,3 +19,4 @@ console.log("23" > "18");
 let n = "1" + 1; // result is string 11
 n=n-1; // 11-1 = 10
 console.log(n);
+
