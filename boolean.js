@@ -12,7 +12,7 @@ if(money){
 else{
     console.log("You should get a job!");
 }
-let height ;
+let height = 10 ;
 if(height){
     console.log("Yay! Height is defined");
 }
