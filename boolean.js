@@ -17,5 +17,5 @@ if(height){
     console.log("Yay! Height is defined");
 }
 else {
-    console.log("Height is defined");
+    console.log("Height is Undefined");
 }
