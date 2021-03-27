@@ -9,3 +9,7 @@ console.log(typeof(fav));
 
 if(fav === 23)
     console.log(`Cool! ${fav} is an ammazing number`);
+else if(fav === 7)
+    console.log(`7 is also a cool number`);    
+else 
+    console.log(`Number is not 23 or 7`);    
