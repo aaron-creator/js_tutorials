@@ -12,4 +12,4 @@ if(fav === 23)
 else if(fav === 7)
     console.log(`7 is also a cool number`);    
 else 
-    console.log(`Number is not 23 or 7`);    
+    console.log(`Number is not 23 or 7`);   
