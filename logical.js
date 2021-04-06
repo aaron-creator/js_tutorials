@@ -12,4 +12,4 @@ else
     console.log("Someone else should drive..");
 
 const isTired = true;
-console.log(hasDriversLicense || hasGoodVision || isTired);
+console.log(hasDriversLicense && hasGoodVision && isTired);
