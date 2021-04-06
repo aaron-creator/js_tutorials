@@ -1,5 +1,5 @@
 const hasDriversLicense = true; 
-const hasGoodVision =false; 
+const hasGoodVision =true; 
 
 console.log(hasDriversLicense && hasGoodVision);
 console.log(hasDriversLicense || hasGoodVision);
@@ -11,7 +11,7 @@ if(shouldDrive)
 else 
     console.log("Someone else should drive..");
 
-const isTired = true;
+const isTired = false;
 console.log(hasDriversLicense && hasGoodVision && isTired);
 if(hasDriversLicense && hasGoodVision && !isTired)
 {
